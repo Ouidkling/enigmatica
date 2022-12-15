@@ -4,3 +4,6 @@
 [submodule "SymfonyEnigme"]
 	path = SymfonyEnigme
 	url = https://github.com/BoiteEnCarton/SymfonyEnigme.git
+[submodule "Enigme_Rails"]
+	path = Enigme_Rails
+	url = https://github.com/Xenoiste/Enigme_Rails.git
