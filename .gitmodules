@@ -1,0 +1,3 @@
+[submodule "enigmeSpring"]
+	path = enigmeSpring
+	url = https://github.com/Tartef/enigmeSpring.git
