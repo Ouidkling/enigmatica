@@ -1,3 +1,6 @@
 [submodule "enigmeSpring"]
 	path = enigmeSpring
 	url = https://github.com/Tartef/enigmeSpring.git
+[submodule "SymfonyEnigme"]
+	path = SymfonyEnigme
+	url = https://github.com/BoiteEnCarton/SymfonyEnigme.git
