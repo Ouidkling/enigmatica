@@ -7,3 +7,6 @@
 [submodule "Enigme_Rails"]
 	path = Enigme_Rails
 	url = https://github.com/Xenoiste/Enigme_Rails.git
+[submodule "enigme_django"]
+	path = enigme_django
+	url = https://github.com/Ouidkling/enigme_django.git
